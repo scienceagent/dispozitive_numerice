@@ -11,8 +11,8 @@
 ## Exercises
 - [Lab Assigment 1](lab1)
   - ⤷ Sinteza circuitelor logice combinaţionale. <br/> 
-- [Lab Assignment 2](lab_2)
+- [Lab Assignment 2](lab2)
   - ⤷ Sinteza convertoarelor de cod. <br/> 
-- [Lab Assignment 3](lab_3) 
+- [Lab Assignment 3](lab3) 
   - ⤷ Sinteza decodificatoarelor şi codificatoarelor. <br/>
 - [Lab Assignment 4](src/lab_4/README.md)
